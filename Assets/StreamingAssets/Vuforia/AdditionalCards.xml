@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="Sulfur-2" size="0.137500 0.200000" />
+    <ImageTarget name="Selenium-2" size="0.137500 0.200000" />
+    <ImageTarget name="Scandium-2" size="0.137500 0.200000" />
+    <ImageTarget name="Oxygen-4" size="0.137500 0.200000" />
+    <ImageTarget name="Oxygen-3" size="0.137500 0.200000" />
+    <ImageTarget name="Oxygen-2" size="0.137500 0.200000" />
+    <ImageTarget name="Nitrogen-2" size="0.137500 0.200000" />
+    <ImageTarget name="Hydrogen-4" size="0.137500 0.200000" />
+    <ImageTarget name="Hydrogen-3" size="0.137500 0.200000" />
+    <ImageTarget name="Hydrogen-2" size="0.137500 0.200000" />
+    <ImageTarget name="Fluorine-6" size="0.137500 0.200000" />
+    <ImageTarget name="Fluorine-5" size="0.137500 0.200000" />
+    <ImageTarget name="Fluorine-4" size="0.137500 0.200000" />
+    <ImageTarget name="Fluorine-3" size="0.137500 0.200000" />
+    <ImageTarget name="Fluorine-2" size="0.137500 0.200000" />
+    <ImageTarget name="Chlorine-4" size="0.137500 0.200000" />
+    <ImageTarget name="Chlorine-3" size="0.137500 0.200000" />
+    <ImageTarget name="Chlorine-2" size="0.137500 0.200000" />
+    <ImageTarget name="Carbon-3" size="0.137500 0.200000" />
+    <ImageTarget name="Carbon-2" size="0.137500 0.200000" />
+    <ImageTarget name="Bromine-3" size="0.137500 0.200000" />
+    <ImageTarget name="Bromine-2" size="0.137500 0.200000" />
+  </Tracking>
+</QCARConfig>

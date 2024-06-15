@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="Culmination" size="0.137500 0.200000" />
+    <ImageTarget name="Lesson4" size="0.137500 0.200000" />
+    <ImageTarget name="Lesson3" size="0.137500 0.200000" />
+    <ImageTarget name="Lesson2" size="0.137500 0.200000" />
+    <ImageTarget name="Lesson1" size="0.137500 0.200000" />
+  </Tracking>
+</QCARConfig>

@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/LoadingPage.unity
+    guid: 2d3f44a45c7a8684c9f395878eb8b9b9
+  - enabled: 1
+    path: Assets/Scenes/PretestPage.unity
+    guid: 0ab64c640c5aa7c408964b48d66cbb91
+  - enabled: 1
+    path: Assets/QuizFolder/Scenes/FirstTimeQuiz.unity
+    guid: e472728a0e7d20c45814638f986499bb
+  - enabled: 1
+    path: Assets/Scenes/StartingPage.unity
+    guid: 39386a7a52e25ee478c5e24a66f1a5a7
+  - enabled: 1
+    path: Assets/Scenes/AugmentedReality.unity
+    guid: a9cc47f0446cc7c41af4c78030191ed1
+  - enabled: 1
+    path: Assets/Scenes/LessonScene.unity
+    guid: da44fb19c2163864b84da646030f3895
+  - enabled: 1
+    path: Assets/Scenes/LessonSceneLocked.unity
+    guid: 0d4f22fb22cc6e94281985ca1194e287
+  - enabled: 1
+    path: Assets/Resources/Transition Scenes/Lesson 1.unity
+    guid: cdc4652db19c8b7459644f7cc24b61c4
+  - enabled: 1
+    path: Assets/Resources/Transition Scenes/Lesson 2.unity
+    guid: fba59dd4cf4593346848a6d3260c394d
+  - enabled: 1
+    path: Assets/Resources/Transition Scenes/Lesson 3.unity
+    guid: d690cec59e57ed74cac6c2037cdad123
+  - enabled: 1
+    path: Assets/Resources/Transition Scenes/Lesson 4.unity
+    guid: e091422da4d107b42b87e54cfaec0d2f
+  - enabled: 1
+    path: Assets/Resources/Transition Scenes/Final.unity
+    guid: ba98088039e5baf4f9c87b67a0fbc80f
+  - enabled: 1
+    path: Assets/LessonFolder/Scenes/ARVR_intro BETA.unity
+    guid: 0ad5d13be01873a4c80e7d89837db17d
+  - enabled: 1
+    path: Assets/LessonFolder/Scenes/ARVR Lesson1_Introduction.unity
+    guid: 63195aa8fa30be644a48d407fb9ca4b2
+  - enabled: 1
+    path: Assets/LessonFolder/Scenes/ARVR Lesson1_Discussion.unity
+    guid: 0bc36a00b79dd024ea94393affb33697
+  - enabled: 1
+    path: Assets/LessonFolder/Scenes/ARVR Lesson2_Introduction.unity
+    guid: c60c7afbcb813a741b0522c43981f35a
+  - enabled: 1
+    path: Assets/LessonFolder/Scenes/ARVR Lesson2_Discussion.unity
+    guid: e62532d11368c2140b093ec72c84196b
+  - enabled: 1
+    path: Assets/LessonFolder/Scenes/ARVR Lesson3_Discussion.unity
+    guid: 427ec9f8bb8abe743a06f704301f8088
+  - enabled: 1
+    path: Assets/LessonFolder/Scenes/ARVR Lesson4_Discussion.unity
+    guid: a52424d1ed4e4e349aae23475654f64a
+  - enabled: 1
+    path: Assets/LessonFolder/Scenes/EndCredits.unity
+    guid: e966d4fd00a5a9c438c749936780e5d1
+  - enabled: 1
+    path: Assets/QuizFolder/Scenes/FlashQuiz.unity
+    guid: 91988061f80f63047bc4eb4ce7508650
+  - enabled: 1
+    path: Assets/QuizFolder/Scenes/FinalExam.unity
+    guid: 0c25451fa5716c54fb2926e4f721235f
+  - enabled: 1
+    path: Assets/QuizFolder/Scenes/Quiz1.unity
+    guid: b26576c5a3667814bbbb521a6e9b0e0a
+  - enabled: 1
+    path: Assets/QuizFolder/Scenes/Quiz4.unity
+    guid: 8eafcb4986ae9354bac621875fef00f7
+  - enabled: 1
+    path: Assets/QuizFolder/Scenes/Riddle.unity
+    guid: c28a1554f177bea46a97f55412e48056
+  m_configObjects:
+    com.unity.adaptiveperformance.google.android.provider_settings: {fileID: 11400000, guid: 40bebbacbeaf6e949a6a4ef9f6d33cf2, type: 2}
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: dcfa0688bb10a734090a829edae0a16c, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 20d1d6d9fb1a42942ac933e5e487341d, type: 2}
+    com.unity.addressableassets: {fileID: 11400000, guid: d09a4406c8a800643bdc836ff1963630, type: 2}
