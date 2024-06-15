@@ -53,6 +53,6 @@ Download the official user manual [here](https://github.com/johnrefani/Elemental
 
 
 ## Developers
- - [John Cloyd Refani]()
- - [Jaypee Cabanela]()
- - [Ildefer Ramos]()
+ - [John Cloyd Refani](https://www.linkedin.com/in/johnrefani/)
+ - [Jaypee Cabanela](https://www.linkedin.com/in/jaypee-cabanela-a64b16280/)
+ - [Ildefer Ramos](https://www.linkedin.com/in/ildefer-ramos-b110831a0/)
