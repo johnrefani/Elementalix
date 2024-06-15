@@ -1,6 +1,6 @@
 # Elementalix: An Augmented Reality Mobile Learning Application for Grade 7 Students
 <p align="center">
-<img src = "" width=30% height=30% />
+<img src = "https://github.com/johnrefani/Elementalix/blob/main/Assets/Resources/Frame.png" width=30% height=30% />
 
 </p>
 
@@ -10,25 +10,37 @@ The system is designed for high school students and teachers to enhance the qual
 
 ## Installation
 
-**Step 1:** Download the [latest apk]() and install on an android device.
+**Step 1:** Download the [latest apk](https://github.com/johnrefani/Elementalix/releases/download/v0.1/Elementalix.apk) and install on an android device.
 
-<img src="" width=30% height=30% /><br/><br/>
+<img src="https://github.com/johnrefani/Elementalix/blob/main/Assets/Resources/Instructions/Step%201.jpg" width=30% height=30% /><br/><br/>
 
 **Step 2:** After installing the apk, 
 Open the Installed App on your device and there will be a window that will ask for permission about the other features of the application and tap ‘allow while using the app’. 
 This permission is very important in order to use the features.
 
-<img src="" width=30% height=30%/>
+<img src="https://github.com/johnrefani/Elementalix/blob/main/Assets/Resources/Instructions/Step%202.jpg" width=30% height=30%/>
 
 ## User Manual
-Download the official [user manual]() here.
+Download the official user manual [here](https://github.com/johnrefani/Elementalix/releases/download/v0.1/User.Manual.docx).
 
 ## Screenshots
 **Home Page**
+<img src="https://github.com/johnrefani/Elementalix/blob/main/Assets/Resources/Instructions/Picture1.png" width=30% height=30%/>
+<br> <br>
+
+<img src="https://github.com/johnrefani/Elementalix/blob/main/Assets/Resources/Instructions/Picture2.png" width=30% height=30%/>
+<br> <br>
+
+<img src="https://github.com/johnrefani/Elementalix/blob/main/Assets/Resources/Instructions/Picture3.png" width=30% height=30%/>
+<br> <br>
+
+<img src="https://github.com/johnrefani/Elementalix/blob/main/Assets/Resources/Instructions/Picture4.png" width=30% height=30%/>
+<br> <br>
+
+<img src="https://github.com/johnrefani/Elementalix/blob/main/Assets/Resources/Instructions/Picture5.png" width=30% height=30%/>
 
 
 ## Developers
  - [John Cloyd Refani]()
  - [Jaypee Cabanela]()
  - [Ildefer Ramos]()
-
