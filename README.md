@@ -9,4 +9,9 @@ The system is designed for high school students and teachers to enhance the qual
 
 ## Installation
 
-## 
+## Screenshots
+
+## Developers
+- [John Cloyd Refani](https://www.linkedin.com/in/johnrefani/)
+- [Jaypee Cabanela]()
+- [Ildefer Ramos]()
