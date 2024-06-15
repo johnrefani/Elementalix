@@ -25,23 +25,30 @@ Download the official user manual [here](https://github.com/johnrefani/Elemental
 
 ## Screenshots
 **Home Page**
+<br> <br>
 <img src="https://github.com/johnrefani/Elementalix/blob/main/Assets/Resources/Instructions/Picture1.png" width=50% height=30%/>
 <br> <br>
 
+**Learning Section**
+<br> <br>
 <img src="https://github.com/johnrefani/Elementalix/blob/main/Assets/Resources/Instructions/Picture2.jpg" width=50% height=30%/>
 <br> <br>
 
+**Discovery Section**
+<br> <br>
 <img src="https://github.com/johnrefani/Elementalix/blob/main/Assets/Resources/Instructions/Picture3.jpg" width=50% height=30%/>
 <br> <br>
 
+**Assessment Section**
+<br> <br>
 <img src="https://github.com/johnrefani/Elementalix/blob/main/Assets/Resources/Instructions/Picture4.jpg" width=50% height=30%/>
 <br> <br>
 
+**Scores**
+<br> <br>
 <img src="https://github.com/johnrefani/Elementalix/blob/main/Assets/Resources/Instructions/Picture5.jpg" width=50% height=30%/>
 <br> <br>
 
-<img src="https://github.com/johnrefani/Elementalix/blob/main/Assets/Resources/Instructions/Picture6.png" width=50% height=30%/>
-<br> <br>
 
 
 
