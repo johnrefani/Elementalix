@@ -20,7 +20,10 @@ This permission is very important in order to use the features.
 
 <img src="" width=30% height=30%/>
 
-## Software
+## User Manual
+Download the official [user manual]() here.
+
+## Screenshots
 **Home Page**
 
 
